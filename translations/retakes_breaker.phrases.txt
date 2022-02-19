@@ -2,10 +2,10 @@
 {
 	"Breakable"
 	{
-		"en"			"All destructible entities have been destroyed."
-    }
-    "Open"
-    {
-        "en"            "All doors have been opened."
-    }
+	"en"			"All destructible entities have been destroyed."
+	}
+	"Open"
+	{
+	"en"            "All doors have been opened."
+	}
 }
